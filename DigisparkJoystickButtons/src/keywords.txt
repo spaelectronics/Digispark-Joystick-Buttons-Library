@@ -1,0 +1,4 @@
+DigiButtons	KEYWORD1
+update KEYWORD2
+delay KEYWORD2
+setButtons KEYWORD2
