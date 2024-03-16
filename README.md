@@ -27,6 +27,12 @@ Available Functions
 * DigiButtons.delay()
 * DigiButtons.update()
 
+Installation
+----------------------------
+1. Download the DigisparkJoystickButtons.zip
+2. In Arduino IDE, goto "Sketch >> Include Library >> Add .ZIP Library..."
+3. Select the zip file you downloaded in step 1.
+
 Additional Information
 ----------------------------
 Ability to use upto 8 Buttons.
