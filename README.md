@@ -19,7 +19,7 @@ Features
 
 Available Examples
 ----------------------------
-* Examples/DigisparkJoystickButtons: (https://github.com/spaelectronics/Digispark-Joystick-Buttons-Library/blob/main/DigisparkJoystickButtons/examples/JoystickButtons/JoystickButtons.ino)
+* Examples/DigisparkJoystickButtons : (https://github.com/spaelectronics/Digispark-Joystick-Buttons-Library/blob/main/DigisparkJoystickButtons/examples/JoystickButtons/JoystickButtons.ino)
 
 Available Functions
 ----------------------------
